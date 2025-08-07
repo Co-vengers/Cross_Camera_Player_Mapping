@@ -88,6 +88,10 @@ jupyter notebook yolo.ipynb
 
 ---
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Acknowledgements
 
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
